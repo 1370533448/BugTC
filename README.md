@@ -1,6 +1,11 @@
 # BugTC - 脱离卡死
 类似网游手游那种 脱离卡死 功能，当用户卡死在地图外或者无法描述的场景时使用
 
+![image](https://github.com/user-attachments/assets/df3196a7-77b6-4a0b-81cc-31ca7dc8c78b)
+![image](https://github.com/user-attachments/assets/aea420a3-9ad6-42f9-ac3d-aa5a7ddf2f85)
+![image](https://github.com/user-attachments/assets/c0809333-d729-4806-80da-7620971b0250)
+
+
 ## 介绍
 BugTC 基于 CounterStrikeSharp，允许玩家在遇到 BUG 导致无法移动时使用指令传送回复活点。
 插件来自CSGO时期的BUGTC插件 https://bbs.csgocn.net/thread-59.htm
